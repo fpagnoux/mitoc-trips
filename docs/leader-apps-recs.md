@@ -1,6 +1,7 @@
 # Design proposal — in-app leader rating upgrade flow (data model)
 
-## Problem && objective
+## Problem & objective
+
 
 The leader rating upgrade flow is spread across three places:
 
